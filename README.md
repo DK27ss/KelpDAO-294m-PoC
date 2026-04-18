@@ -9,7 +9,7 @@
 >| GUID (nonce 308) | `0x3f4510d855cf3a805fec59daafae640d290749b7bf1e5450f91b5fb0018b3b4e` |
 >| GUID (nonce 309) | `0x19073f141ef29ea2eb2c52046e60942a928b2106651e622b73c68e27c969cfe6` |
 >| Raw message (n=308) | `0x0000…8b1b6c9a6db1304000412dd21ae6a70a82d60d3b` ‖ `0x0000001b1ff0ed00` |
->| `amountSD` (6 dec) | `0x1b1ff0ed00` = `116,500,000,000,000` → **116,500 rsETH** in 18 dec |
+>| `amountSD` | `0x1b1ff0ed00` = `116,500,000,000,000` → **116,500 rsETH** |
 
 ---
 
