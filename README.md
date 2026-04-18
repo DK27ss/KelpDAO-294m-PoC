@@ -11,6 +11,8 @@
 >| Raw message (n=308) | `0x0000…8b1b6c9a6db1304000412dd21ae6a70a82d60d3b` ‖ `0x0000001b1ff0ed00` |
 >| `amountSD` | `0x1b1ff0ed00` = `116,500,000,000,000` → **116,500 rsETH** |
 
+<img width="1479" height="162" alt="image" src="https://github.com/user-attachments/assets/9453dc3c-0716-41ca-9541-eded85b5f47d" />
+
 ---
 
 ## Summary
