@@ -62,6 +62,8 @@ require(
 
 payload hash is set earlier by the DVN via `ReceiveUln.commitVerification` when quorum is reached, **Once the hash is committed, execution is effectively unconditional.**
 
+<img width="2101" height="269" alt="image" src="https://github.com/user-attachments/assets/7a3edf4a-3dd5-4c38-b18f-e713f571b37f" />
+
 ---
 
 ## Configuration finding 1-of-1 DVN on both ends
