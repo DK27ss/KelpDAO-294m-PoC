@@ -270,3 +270,14 @@ lzReceive calldata:
 - Control case source tx (nonce 307, Unichain): <https://uniscan.xyz/tx/0x32877156a2d7d186f3a43c8365b1743fb7eff84bd94b8ef2688702ba1447d778>
 - Control case destination tx (nonce 307, Ethereum): <https://etherscan.io/tx/0xc232af35a6c98c92fdb0b08675e93d678994c2c97d31e133f909e0cb95960211>
 - Analysis: <https://gist.github.com/banteg/705d0284513b74ad20f61d90f5b5de62>
+
+---
+
+>
+>Company : https://blockraider.xyz/
+>
+>Community : https://discord.gg/Vqqt7jyRr7
+>
+>Disclosure : https://t.me/blockraider_alerts_bot
+
+<img width="161" height="51" alt="blockraider" src="https://github.com/user-attachments/assets/dc86222a-b5fb-49e8-9a9d-350973b7521d" />
